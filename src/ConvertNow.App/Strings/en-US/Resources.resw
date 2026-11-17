@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Convert.Now</value>
+  </data>
+  <data name="BrowseButtonLabel" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="BrowseFileButtonLabel" xml:space="preserve">
+    <value>Browse file...</value>
+  </data>
+  <data name="CancelButtonLabel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="CancellingStatusText" xml:space="preserve">
+    <value>Cancelling...</value>
+  </data>
+  <data name="CloseButtonLabel" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="ConvertButtonLabel" xml:space="preserve">
+    <value>Convert</value>
+  </data>
+  <data name="ConvertingStatusText" xml:space="preserve">
+    <value>Converting...</value>
+  </data>
+  <data name="ConvertToLabel" xml:space="preserve">
+    <value>Convert to:</value>
+  </data>
+  <data name="CustomSaveLocationLabel" xml:space="preserve">
+    <value>Custom save location</value>
+  </data>
+  <data name="DoneTitle" xml:space="preserve">
+    <value>Done!</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Conversion failed</value>
+  </data>
+  <data name="EtaPrefix" xml:space="preserve">
+    <value>ETA:</value>
+  </data>
+  <data name="NoFilePromptText" xml:space="preserve">
+    <value>Select a video, audio, or image file to convert.</value>
+  </data>
+  <data name="OpenFolderButtonLabel" xml:space="preserve">
+    <value>Open folder</value>
+  </data>
+  <data name="RetryButtonLabel" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="SavedToPrefix" xml:space="preserve">
+    <value>Saved to:</value>
+  </data>
+  <data name="UnsupportedMessageFormat" xml:space="preserve">
+    <value>The file "{0}" cannot be converted. Convert.Now supports video, audio, and image files.</value>
+  </data>
+  <data name="UnsupportedTitle" xml:space="preserve">
+    <value>Unsupported format</value>
+  </data>
+</root>
